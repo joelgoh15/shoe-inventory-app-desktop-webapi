@@ -1,2 +1,22 @@
-# shoe-inventory-app-desktop-webapi
-desktop shoe inventory application that integrates with web-api.
+## About
+
+<p>shoe inventory application.</p>
+
+<p>desktop application that integrates with web-api for a shoe inventory application.</p>
+
+<p>
+this solution is divided into two sections:</br></br>
+section 1: server side project that contains web-api, database. web-api for c.r.u.d operation. project name -> shoe_inventory_desktop_webapi.
+</br></br>
+section 2: client side project that calls/integrate with web-api. console application. project name -> desktop_web_proj1.
+</p>
+
+<p>tech stack in brief: c#, linq, web-api</p>
+
+<p>
+how to use application:</br>
+1. visual studio ide</br>
+2. double-click desktop_web_proj1.sln</br>
+</p>
+  
+</p>
