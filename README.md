@@ -1,16 +1,16 @@
 ## About
 
-<p>shoe inventory application.</p>
+<p>Shoe inventory application.</p>
 
-<p>desktop application that integrates with web-api for a shoe inventory application.</p>
+<p>Desktop application that integrates with Web-API for a shoe inventory application.</p>
 
-<p>
-this solution is divided into two sections:</br></br>
-section 1: server side project that contains web-api, database. web-api for c.r.u.d operation. project name -> shoe_inventory_desktop_webapi.
-</br></br>
-section 2: client side project that calls/integrate with web-api. console application. project name -> desktop_web_proj1.
+<p>This solution is divided into two sections:
+  <ul>
+    <li>Section 1: Server side project that contains Web-API, database. Web-API for C.R.U.D operation.Project name is "shoe_inventory_desktop_webapi".</li>
+    <li>Section 2: Client side project that calls/integrate with Web-API.Console application. Project name is "desktop_web_proj1".</li>
+  </ul>
 </p>
 
-<p>tech stack in brief: c#, linq, web-api.</p>
+<p>Tech stack in brief: C#, LINQ, Web-API.</p>
 
 
