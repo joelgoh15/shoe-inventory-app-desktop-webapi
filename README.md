@@ -11,12 +11,6 @@ section 1: server side project that contains web-api, database. web-api for c.r.
 section 2: client side project that calls/integrate with web-api. console application. project name -> desktop_web_proj1.
 </p>
 
-<p>tech stack in brief: c#, linq, web-api</p>
+<p>tech stack in brief: c#, linq, web-api.</p>
 
-<p>
-how to use application:</br>
-1. visual studio ide</br>
-2. double-click desktop_web_proj1.sln</br>
-</p>
-  
-</p>
+
